@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/28929141?v=4" />
+   <h3 align="center">¡Hi 👋! I'm arodridev 🚀</h3>
+</p>
+
+<p align="center">I'm a <strong>Software Developer</strong> starting in this wonderful world with a year of experience.<br /></p>
 
 <!--
 **arodridev/arodridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
